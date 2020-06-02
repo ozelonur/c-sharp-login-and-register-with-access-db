@@ -1,0 +1,11 @@
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\bin\Debug\login_register_forms.exe.config
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\bin\Debug\login_register_forms.exe
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\bin\Debug\login_register_forms.pdb
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.csprojAssemblyReference.cache
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.Form1.resources
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.Properties.Resources.resources
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.Register.resources
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.csproj.GenerateResource.cache
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.csproj.CoreCompileInputs.cache
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.exe
+C:\Users\Onur ÖZEL\source\repos\login_register_forms\login_register_forms\obj\Debug\login_register_forms.pdb
